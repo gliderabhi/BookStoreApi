@@ -3,7 +3,7 @@
 [![CircleCI](https://circleci.com/gh/ehtiramabdullayev/BookStoreApi.svg?style=svg)](https://circleci.com/gh/ehtiramabdullayev/BookStoreApi)
 [![codecov](https://codecov.io/gh/ehtiramabdullayev/BookStoreApi/branch/master/graph/badge.svg)](https://codecov.io/gh/ehtiramabdullayev/BookStoreApi)
 #### Requirements
-Implementing a Book store REST API using Spring Framework for Company XYZ.
+Implementing a Book store REST API using Spring Framework.
 - Frontend should be able to display a list of books which contain the Name and Author's name
 - Book has fields such as: ID, ISBN, Name, Author, Categories
 - Frontend should be able to show, all the details of each book.
