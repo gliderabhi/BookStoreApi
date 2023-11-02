@@ -1,14 +1,5 @@
 package com.example.bookstore.integration.controllers;
 
-import com.example.bookstore.api.model.request.CreateBookStockRequest;
-import com.example.bookstore.api.model.request.SearchByBookNameRequest;
-import com.example.bookstore.api.model.request.UpdateBookStockRequest;
-import com.example.bookstore.api.model.response.BookStockResponse;
-import com.example.bookstore.api.model.response.BookStockResponseWithBookCountResponse;
-import com.example.bookstore.models.Book;
-import com.example.bookstore.models.BookStock;
-import com.example.bookstore.repositories.BookRepository;
-import com.example.bookstore.repositories.BookStockRepository;
 import org.junit.Before;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;

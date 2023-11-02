@@ -1,10 +1,5 @@
 package com.example.bookstore.unit.services;
 
-import com.example.bookstore.api.model.request.CreateAuthorRequest;
-import com.example.bookstore.exceptions.NotFoundException;
-import com.example.bookstore.models.Author;
-import com.example.bookstore.repositories.AuthorRepository;
-import com.example.bookstore.services.AuthorService;
 import com.example.bookstore.utils.AuthorTestDataBuilder;
 import org.junit.Test;
 import org.junit.runner.RunWith;

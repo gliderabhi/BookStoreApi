@@ -1,9 +1,5 @@
 package com.example.bookstore.integration.controllers;
 
-import com.example.bookstore.api.model.request.CreateBookRequest;
-import com.example.bookstore.api.model.response.BookResponse;
-import com.example.bookstore.models.Book;
-import com.example.bookstore.repositories.BookRepository;
 import com.example.bookstore.utils.builder.BookTestDataBuilder;
 import org.junit.Before;
 import org.junit.Test;

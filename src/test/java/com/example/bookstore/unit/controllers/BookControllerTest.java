@@ -1,12 +1,5 @@
 package com.example.bookstore.unit.controllers;
 
-import com.example.bookstore.api.model.request.CreateBookRequest;
-import com.example.bookstore.api.model.request.UpdateBookRequest;
-import com.example.bookstore.api.model.response.BookResponse;
-import com.example.bookstore.api.model.response.CreateEntityResponse;
-import com.example.bookstore.controllers.BookController;
-import com.example.bookstore.models.Book;
-import com.example.bookstore.services.BookService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.InjectMocks;

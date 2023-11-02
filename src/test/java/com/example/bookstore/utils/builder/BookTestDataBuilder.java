@@ -1,7 +1,5 @@
 package com.example.bookstore.utils.builder;
 
-import com.example.bookstore.models.Book;
-
 /**
  * @author Ehtiram_Abdullayev on 2/9/2020
  * @project book-store

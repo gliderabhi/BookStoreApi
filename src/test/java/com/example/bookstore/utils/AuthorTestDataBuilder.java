@@ -1,8 +1,5 @@
 package com.example.bookstore.utils;
 
-import com.example.bookstore.api.model.request.CreateAuthorRequest;
-import com.example.bookstore.models.Author;
-import com.example.bookstore.models.builder.AuthorModelBuilder;
 import com.example.bookstore.utils.builder.CreateAuthorRequestBuilder;
 
 import java.time.LocalDate;
